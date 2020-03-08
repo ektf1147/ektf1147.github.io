@@ -3,7 +3,7 @@ baseurl: ""
 url: "https://ektf1147.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title:                                   # site's title
+title: 내블로그                                # site's title
 description: Welcome to my blog      # used by search engines
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
