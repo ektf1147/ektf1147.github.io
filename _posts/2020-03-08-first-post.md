@@ -1,5 +1,5 @@
 ---
-title: "my first post in jekell."
+title: "My first post in jekell."
 date: 2020-03-08
 categories: jekyll update
 ---
