@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Template matching using skimage."
+tag : [template matching, skimage, Normalized Cross Correlation]
 ---
 
-Here is my blog.
-I will upload the several posts.
+# Template Matching using skimage
